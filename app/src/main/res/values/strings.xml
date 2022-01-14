@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Store</string>
+    <string-array name="coffe">
+        <item>Зерновой</item>
+        <item>Растворимый</item>
+        <item>Молотый</item>
+        <item>Без кофеина</item>
+        <item>Органиеский</item>
+
+    </string-array>
+    <string name="info">
+        "Самый лучший кофе в мире"
+        "Самый лучший кофе в мире"
+        "Самый лучший кофе в мире"
+        "Самый лучший кофе в мире"
+        "Самый лучший кофе в мире"
+        "Самый лучший кофе в мире"
+        "Самый лучший кофе в мире"
+        "Самый лучший кофе в мире"
+
+    </string>
+</resources>
